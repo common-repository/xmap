@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xmap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-17 18:14+0100\n"
+"PO-Revision-Date: 2014-04-17 18:15+0100\n"
+"Last-Translator: Matthias Scheidl <dev@scheidl.name>\n"
+"Language-Team: Matthias Scheidl <dev@scheidl.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/options.php:22
+msgid "Map Properties"
+msgstr "Karten Einstellungen"
+
+#: ../includes/options.php:23
+#: ../includes/options.php:114
+#: ../includes/options.php:123
+msgid "Map Width"
+msgstr "Breite der Karte"
+
+#: ../includes/options.php:24
+#: ../includes/options.php:133
+#: ../includes/options.php:142
+msgid "Map Height"
+msgstr "Höhe der Karte"
+
+#: ../includes/options.php:25
+msgid "Map Type"
+msgstr "Kartentyp"
+
+#: ../includes/options.php:26
+msgid "Show Track Metadata"
+msgstr "Track Metadaten anzeigen"
+
+#: ../includes/options.php:27
+msgid "Unit"
+msgstr "Einheit"
+
+#: ../includes/options.php:29
+msgid "Map Styles"
+msgstr "Karten Stile"
+
+#: ../includes/options.php:30
+msgid "CSS"
+msgstr "CSS"
+
+#: ../includes/options.php:38
+msgid "Enter the default map properties here."
+msgstr "Tragen Sie hier die Standardwerte für Karten ein."
+
+#: ../includes/options.php:39
+msgid "You can override these defaults by using the appropriate attributes in each shortcode."
+msgstr "Sie können diese Standardwerte durch die entsprechenden Attribute in den Shortcodes überschreiben."
+
+#: ../includes/options.php:43
+msgid "Enter the CSS for the xmap class"
+msgstr "CSS für die xmap Klasse eingeben"
+
+#: ../includes/options.php:68
+msgid "Road"
+msgstr "Straßen"
+
+#: ../includes/options.php:69
+msgid "Satellite"
+msgstr "Satellit"
+
+#: ../includes/options.php:70
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: ../includes/options.php:71
+msgid "Terrain"
+msgstr "Gelände"
+
+#: ../includes/options.php:73
+msgid "Open Street Map"
+msgstr "Open Street Map"
+
+#: ../includes/options.php:74
+msgid "Open Cycle Map"
+msgstr "Open Cycle Map"
+
+#: ../includes/options.php:90
+msgid "km"
+msgstr "km"
+
+#: ../includes/options.php:91
+msgid "Miles"
+msgstr "Meilen"
+
+#: ../includes/options.php:114
+#: ../includes/options.php:133
+#, php-format
+msgid "<i>%s</i> – You must enter a number!"
+msgstr "<i>%s</i> – Sie müssen eine Zahl eingeben!"
+
+#: ../includes/options.php:123
+#: ../includes/options.php:142
+#, php-format
+msgid "<i>%s</i> – This value must be at least %s!"
+msgstr "<i>%s</i> – Dieser Wert muss mindestens %s sein!"
+
+#: ../includes/options.php:190
+msgid "XMap Settings"
+msgstr "XMap Einstellungen"
+
+#: ../includes/options.php:195
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
+
+#: ../includes/shortcodes.php:48
+msgid "User maps currently not supported."
+msgstr "Benutzerkarten werden derzeit nicht unterstützt."
+
+#: ../includes/shortcodes.php:49
+msgid "Missing route or user ID."
+msgstr "ID der Route oder des Benutzers fehlt."
+
+#: ../includes/shortcodes.php:50
+msgid "You must not specify both, route and user ID."
+msgstr "Sie dürfen nur die Route oder den Benutzer spezifizieren."
+
